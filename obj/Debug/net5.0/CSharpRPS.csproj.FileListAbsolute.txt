@@ -1,0 +1,15 @@
+/Users/monroegollaher/source/codeworks/CSharpRPS/bin/Debug/net5.0/CSharpRPS.deps.json
+/Users/monroegollaher/source/codeworks/CSharpRPS/bin/Debug/net5.0/CSharpRPS.runtimeconfig.json
+/Users/monroegollaher/source/codeworks/CSharpRPS/bin/Debug/net5.0/CSharpRPS.runtimeconfig.dev.json
+/Users/monroegollaher/source/codeworks/CSharpRPS/bin/Debug/net5.0/CSharpRPS.dll
+/Users/monroegollaher/source/codeworks/CSharpRPS/bin/Debug/net5.0/ref/CSharpRPS.dll
+/Users/monroegollaher/source/codeworks/CSharpRPS/bin/Debug/net5.0/CSharpRPS.pdb
+/Users/monroegollaher/source/codeworks/CSharpRPS/obj/Debug/net5.0/CSharpRPS.csprojAssemblyReference.cache
+/Users/monroegollaher/source/codeworks/CSharpRPS/obj/Debug/net5.0/CSharpRPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monroegollaher/source/codeworks/CSharpRPS/obj/Debug/net5.0/CSharpRPS.AssemblyInfoInputs.cache
+/Users/monroegollaher/source/codeworks/CSharpRPS/obj/Debug/net5.0/CSharpRPS.AssemblyInfo.cs
+/Users/monroegollaher/source/codeworks/CSharpRPS/obj/Debug/net5.0/CSharpRPS.csproj.CoreCompileInputs.cache
+/Users/monroegollaher/source/codeworks/CSharpRPS/obj/Debug/net5.0/CSharpRPS.dll
+/Users/monroegollaher/source/codeworks/CSharpRPS/obj/Debug/net5.0/ref/CSharpRPS.dll
+/Users/monroegollaher/source/codeworks/CSharpRPS/obj/Debug/net5.0/CSharpRPS.pdb
+/Users/monroegollaher/source/codeworks/CSharpRPS/obj/Debug/net5.0/CSharpRPS.genruntimeconfig.cache
