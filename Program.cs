@@ -30,7 +30,7 @@ namespace CSharpRPS
 
             while (!running)
             {
-                System.Console.WriteLine($"Hello!");
+                System.Console.WriteLine($"RESULTS:");
                 running = true;
             }
 
